@@ -17,10 +17,10 @@ Power BI • DAX • Excel
  📸 Dashboard Preview
 
  Dashboard
-[Dashboard ](./screenshots/DASHBOARDard.png)
+[Dashboard ](screenshots/DASHBAOARD.png.png)
 
 Dashboard 
-![Dashboard ](./screenshots/DASHBOARD.png)
+![Dashboard ]()
 
  🚀 Future Enhancement
 
