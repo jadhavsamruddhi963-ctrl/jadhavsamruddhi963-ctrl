@@ -17,7 +17,7 @@ Power BI • DAX • Excel
  📸 Dashboard Preview
 
  Dashboard
-[Dashboard ](screenshots/DASHBAOARD.png.png)
+[Dashboard ](screenshots/DASHBOARD.png.png)
 
 Dashboard 
 ![Dashboard ]()
