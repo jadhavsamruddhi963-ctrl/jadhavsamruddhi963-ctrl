@@ -1,16 +1,23 @@
-## Hi there 👋
+🛒 E-Commerce Sales & Customer Insights Dashboard
 
-<!--
-**jadhavsamruddhi963-ctrl/jadhavsamruddhi963-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An interactive **Power BI dashboard** that analyzes e-commerce sales, profit, customers, products, and regional performance.
 
-Here are some ideas to get you started:
+📊 What I Analyzed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💰 Sales & Profit
+* 👥 Customer Segments
+* 📦 Product Performance
+* 🌍 Regional Sales
+* 📈 Monthly Trends
+
+ 🛠️ Tools
+
+**Power BI • DAX • Excel**
+
+ 🚀 Future Enhancement
+
+🤖 Adding **AI-powered insights, forecasting, and business recommendations**.
+
+ 👩‍💻 Author
+
+Samruddhi Jadhav | AI & ML Student • Aspiring Data Analyst
