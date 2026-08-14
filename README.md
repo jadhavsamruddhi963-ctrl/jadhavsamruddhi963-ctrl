@@ -4,19 +4,27 @@ An interactive **Power BI dashboard** that analyzes e-commerce sales, profit, cu
 
 📊 What I Analyzed
 
-* 💰 Sales & Profit
-* 👥 Customer Segments
-* 📦 Product Performance
-* 🌍 Regional Sales
-* 📈 Monthly Trends
+💰 Sales & Profit
+👥 Customer Segments
+📦 Product Performance
+ 🌍 Regional Sales
+ 📈 Monthly Trends
 
  🛠️ Tools
 
-**Power BI • DAX • Excel**
+Power BI • DAX • Excel
+
+ 📸 Dashboard Preview
+
+ Dashboard
+[Dashboard ](./screenshots/DASHBOARDard.png)
+
+Dashboard 
+![Dashboard ](./screenshots/DASHBOARD.png)
 
  🚀 Future Enhancement
 
-🤖 Adding **AI-powered insights, forecasting, and business recommendations**.
+🤖 Adding AI-powered insights, forecasting, and business recommendations.
 
  👩‍💻 Author
 
