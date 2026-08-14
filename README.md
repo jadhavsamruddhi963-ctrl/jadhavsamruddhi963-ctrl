@@ -20,7 +20,7 @@ Power BI • DAX • Excel
 [Dashboard ](screenshots/DASHBOARD.png.png)
 
 Dashboard 
-![Dashboard ](screenshots/DASHBAOARD.png.png)
+[Dashboard ](screenshots/DASHBAOARD.png.png)
 
  🚀 Future Enhancement
 
